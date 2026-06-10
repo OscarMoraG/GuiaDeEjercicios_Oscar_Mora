@@ -8,3 +8,8 @@ Los ejercicios de fuerza desarrollan masa muscular y mejoran el rendimiento fís
 - Mejora postura.
 - Favorece metabolismo.
 
+## Instrucciones
+1. Calienta previamente.
+2. Realiza series controladas.
+3. Descansa entre ejercicios.
+
