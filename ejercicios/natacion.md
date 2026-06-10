@@ -13,3 +13,7 @@ La natación es un ejercicio de bajo impacto que trabaja múltiples grupos muscu
 2. Mantén técnica adecuada.
 3. Descansa entre sesiones.
 
+
+## Consejos
+- Mantén respiración controlada.
+- Incrementa distancia gradualmente.
