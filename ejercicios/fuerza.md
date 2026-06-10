@@ -13,3 +13,7 @@ Los ejercicios de fuerza desarrollan masa muscular y mejoran el rendimiento fís
 2. Realiza series controladas.
 3. Descansa entre ejercicios.
 
+## Consejos
+- Mantén técnica correcta.
+- Evita sobrecargas.
+
