@@ -8,3 +8,8 @@ CrossFit es un entrenamiento de alta intensidad que combina fuerza, resistencia 
 - Mejora condición cardiovascular.
 - Desarrolla fuerza general.
 
+## Instrucciones
+1. Realiza calentamiento previo.
+2. Ejecuta ejercicios con técnica adecuada.
+3. Descansa entre rondas.
+
