@@ -8,3 +8,8 @@ La natación es un ejercicio de bajo impacto que trabaja múltiples grupos muscu
 - Fortalece músculos.
 - Reduce impacto articular.
 
+## Instrucciones
+1. Realiza calentamiento previo.
+2. Mantén técnica adecuada.
+3. Descansa entre sesiones.
+
