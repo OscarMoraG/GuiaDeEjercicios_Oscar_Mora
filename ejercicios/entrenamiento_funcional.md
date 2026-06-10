@@ -8,3 +8,8 @@ El entrenamiento funcional mejora movimientos cotidianos mediante ejercicios int
 - Incrementa resistencia.
 - Fortalece músculos estabilizadores.
 
+## Instrucciones
+1. Calienta antes de iniciar.
+2. Realiza movimientos controlados.
+3. Mantén descansos cortos.
+
