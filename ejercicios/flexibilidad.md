@@ -8,3 +8,8 @@ Los ejercicios de flexibilidad ayudan a mejorar el rango de movimiento y reducir
 - Reduce lesiones.
 - Favorece la recuperación muscular.
 
+## Instrucciones
+1. Realiza estiramientos suaves.
+2. Mantén cada posición entre 15 y 30 segundos.
+3. Respira de forma controlada.
+
