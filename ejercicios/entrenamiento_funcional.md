@@ -13,3 +13,7 @@ El entrenamiento funcional mejora movimientos cotidianos mediante ejercicios int
 2. Realiza movimientos controlados.
 3. Mantén descansos cortos.
 
+## Consejos
+- Prioriza técnica sobre velocidad.
+- Ajusta intensidad progresivamente.
+
