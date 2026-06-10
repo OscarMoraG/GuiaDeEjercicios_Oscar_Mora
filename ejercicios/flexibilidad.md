@@ -13,3 +13,7 @@ Los ejercicios de flexibilidad ayudan a mejorar el rango de movimiento y reducir
 2. Mantén cada posición entre 15 y 30 segundos.
 3. Respira de forma controlada.
 
+## Consejos
+- No rebotes durante el estiramiento.
+- Mantén una rutina constante.
+
