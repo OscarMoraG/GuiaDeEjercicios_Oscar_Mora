@@ -8,3 +8,8 @@ El ciclismo es un ejercicio cardiovascular que mejora la resistencia física y f
 - Fortalece piernas.
 - Reduce estrés.
 
+## Instrucciones
+1. Ajusta correctamente la bicicleta.
+2. Mantén ritmo constante.
+3. Hidrátate durante el recorrido.
+
