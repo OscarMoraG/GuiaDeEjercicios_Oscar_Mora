@@ -13,3 +13,6 @@ CrossFit es un entrenamiento de alta intensidad que combina fuerza, resistencia 
 2. Ejecuta ejercicios con técnica adecuada.
 3. Descansa entre rondas.
 
+## Consejos
+- Controla intensidad según experiencia.
+- Mantén hidratación constante.
