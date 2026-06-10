@@ -13,3 +13,6 @@ Pilates es un método de entrenamiento que fortalece el cuerpo y mejora la postu
 2. Realiza movimientos suaves.
 3. Mantén postura correcta.
 
+## Consejos
+- Evita movimientos bruscos.
+- Mantén concentración durante el ejercicio.
