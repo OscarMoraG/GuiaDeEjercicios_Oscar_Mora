@@ -13,3 +13,6 @@ El ciclismo es un ejercicio cardiovascular que mejora la resistencia física y f
 2. Mantén ritmo constante.
 3. Hidrátate durante el recorrido.
 
+## Consejos
+- Usa casco y protección.
+- Incrementa distancia progresivamente.
