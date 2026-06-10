@@ -13,3 +13,7 @@ El yoga combina respiración, posturas y concentración para mejorar el bienesta
 2. Realiza posturas lentamente.
 3. Mantén respiración constante.
 
+## Consejos
+- No fuerces posiciones.
+- Mantén concentración durante la práctica.
+
